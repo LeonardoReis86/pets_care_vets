@@ -117,8 +117,6 @@ body {
 
 .contact-info {
    align-items:first baseline;
-
-   
 }
 
 .contact-form {
@@ -184,7 +182,6 @@ input {
    align-items: center;
    justify-content: center;
 
-   
    height: 48px;
    
    font-size: 16px;
@@ -239,7 +236,6 @@ footer {
       padding: 10px;
       line-height: 20px;
       letter-spacing: 1px;
-      
    }
 
    .contact-info,
